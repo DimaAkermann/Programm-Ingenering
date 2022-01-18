@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: b324adbdc93fa4943b20a67ce4974da8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3732865001341517306
+    second: Bosssgotovii_0
+  - first:
+      213: -3928707077950388542
+    second: Bosssgotovii_1
+  - first:
+      213: 3089231498029903472
+    second: Bosssgotovii_2
+  - first:
+      213: -3233753571255670856
+    second: Bosssgotovii_3
+  - first:
+      213: 6297368640804728643
+    second: Bosssgotovii_4
+  - first:
+      213: -2067303981298035951
+    second: Bosssgotovii_5
+  - first:
+      213: -4685636448346336447
+    second: Bosssgotovii_6
+  - first:
+      213: -3511758109830749602
+    second: Bosssgotovii_7
+  - first:
+      213: 3547685745464748060
+    second: Bosssgotovii_8
+  - first:
+      213: -9108550137399067945
+    second: Bosssgotovii_9
+  - first:
+      213: 8850338204906209239
+    second: Bosssgotovii_10
+  - first:
+      213: 5433575443624174911
+    second: Bosssgotovii_11
+  - first:
+      213: 7362772966275080528
+    second: Bosssgotovii_12
+  - first:
+      213: -8171124982805578262
+    second: Bosssgotovii_13
+  - first:
+      213: -3556989822810291453
+    second: Bosssgotovii_14
+  - first:
+      213: -8508490328554326534
+    second: Bosssgotovii_15
+  - first:
+      213: -4066309187354020616
+    second: Bosssgotovii_16
+  - first:
+      213: 6056488132774859026
+    second: Bosssgotovii_17
+  - first:
+      213: -7361442705996067977
+    second: Bosssgotovii_18
+  - first:
+      213: 4094808139041087014
+    second: Bosssgotovii_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bosssgotovii_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 569
+        width: 50
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6267855, y: 0.21615009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf27fe0fccdc330800000000000000
+      internalID: 3732865001341517306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 569
+        width: 50
+        height: 68
+      alignment: 9
+      pivot: {x: 0.57370013, y: 0.21700062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c644305abd6a79c0800000000000000
+      internalID: -3928707077950388542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 569
+        width: 49
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12497038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e25051ea72fda20800000000000000
+      internalID: 3089231498029903472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 568
+        width: 47
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5439943, y: 0.12541132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a72692466f13d0800000000000000
+      internalID: -3233753571255670856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 569
+        width: 48
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5646165, y: 0.14524212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fa9d6f96fb46750800000000000000
+      internalID: 6297368640804728643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 569
+        width: 55
+        height: 69
+      alignment: 9
+      pivot: {x: 0.53759485, y: 0.16037208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113daf76bf57f43e0800000000000000
+      internalID: -2067303981298035951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 354
+        width: 101
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5000019, y: 0.596933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14391bdc97649feb0800000000000000
+      internalID: -4685636448346336447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 354
+        width: 102
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52e07eea9ab34fc0800000000000000
+      internalID: -3511758109830749602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 351
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a4299369eb3130800000000000000
+      internalID: 3547685745464748060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 342
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da3e71c8ede79180800000000000000
+      internalID: -9108550137399067945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 337
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfb08dc4b7b2da70800000000000000
+      internalID: 8850338204906209239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 338
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f352181e310f76b40800000000000000
+      internalID: 5433575443624174911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 424
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5426504, y: 0.25836033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051eca0d003dd2660800000000000000
+      internalID: 7362772966275080528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 423
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5772535, y: 0.17383175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedbd80ee155a9e80800000000000000
+      internalID: -8171124982805578262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30386b51a9803aec0800000000000000
+      internalID: -3556989822810291453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 241
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53ca74025cbe980800000000000000
+      internalID: -8508490328554326534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 247
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43bdc96519197c0800000000000000
+      internalID: -4066309187354020616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 163
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2111a6c3ed7fc0450800000000000000
+      internalID: 6056488132774859026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 162
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc6ba8cd6e6d990800000000000000
+      internalID: -7361442705996067977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosssgotovii_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 164
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1ce6ae4ea3d830800000000000000
+      internalID: 4094808139041087014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
